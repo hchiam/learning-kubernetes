@@ -9,3 +9,5 @@ Docker in 100 seconds: https://www.youtube.com/watch?v=Gjnup-PuquQ
 Learn Docker in 7 steps: https://www.youtube.com/watch?v=gAkwW2tuIqE
 
 Official website: https://kubernetes.io
+
+Official GitHub repo: https://github.com/kubernetes/kubernetes
