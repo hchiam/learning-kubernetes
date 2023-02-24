@@ -1,4 +1,4 @@
-# Learning [Kubernetes](https://kubernetes.io/)
+# Learning [Kubernetes](https://kubernetes.io/) (also known as K8s)
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
